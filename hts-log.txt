@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 10 Apr 2024 22:21:01 at https://catinthematrix/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+catinthematrix
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.catinthematrix.xyz/ -O1 "D:\Websites\catinmatrix" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mcatinthematrixnformation,catinthematrix
+catinthematrixcatinthematrix
+	such as username/password authentication for websicatinthematrixrojectcatinthematrix
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+22:21:16	Error: 	"Not Found" (404) at link https://www.catinthematrix.xyz/feed.xml (from https://www.catinthematrix.xyz/)
+
+22:21:16	Error: 	"Not Found" (404) at link https://www.catinthematrix.xyz/${n.uri} (from https://www.catinthematrix.xyz/)
+
+22:21:16	Error: 	"Not Found" (404) at link https://www.catinthematrix.xyz/decodeURIComponent(e (from https://www.catinthematrix.xyz/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 47 links scanned, 43 files written (1921777 bytes overall) [1149414 bytes received at 76627 bytes/sec], 1174552 bytes transferred using HTTP compression in 17 files, ratio 29%, 2.2 requests per connection
+
+(3 errors, 0 warnings, 0 messages)
+
